@@ -2,7 +2,7 @@
 - ||-------------------GITHUB PROFILE OF DHANUSH ANUMAKONDA------------------||
 - 👀 I’m interested in Data Science and Machine Learning Projects,Programming in C,C++ and Python.
 - 👀 I’m Also intrested in Operating System , Computer Netorks and about how the internet actually works!....Especially the protocls,IP and much more!.
-- 🌱 I’m currently in my BTech 3rd Year (6th semester)at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram,Tamil Nadu  India
+- 🌱 I’m currently in my BTech 4rd Year (7th semester)at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram,Tamil Nadu  India
 - 🏓 I am also National Level Table Tennis Player and been playing since 2014.
 - 📫 You can reach me using my work email : dhanush.atwork@gmail.com
 ```C
