@@ -13,7 +13,7 @@ mE()
     printf("Pronouns : He || Him \n");
     printf("Code : C,C++,Python \n");
     printf("Tools and Technologies:Tensorflow,NumPy,Pandas,Open CV,Neural Networks,\n");
-    printf("Misc : Verilog,Latex,Tableau,Packet Tracing in networks,Matlab,awk\n);
+    printf("Misc : Verilog,Latex,Tableau,Packet Tracing in networks,Matlab,awk\n");
   }
 }
 
